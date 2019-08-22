@@ -17,7 +17,7 @@ A front-end orientated challenge designed for candidates.
 - Comment your code where necessary e.g *"I am using this technique for this reason"*
 
 ### Design
-- [Mobile (400px)](https://raw.githubusercontent.com/pixelfusion/fog-test/master/design/mobile.png)
-- [Desktop (1200px)](https://raw.githubusercontent.com/pixelfusion/fog-test/master/design/desktop.png)
-- [Assets](https://github.com/pixelfusion/fog-test/blob/master/assets)
+- [Mobile (400px)](https://raw.githubusercontent.com/pixelfusion/test-front-end/master/design/mobile.png)
+- [Desktop (1200px)](https://raw.githubusercontent.com/pixelfusion/test-front-end/master/design/desktop.png)
+- [Assets](https://github.com/pixelfusion/test-front-end/blob/master/assets)
 - Font: Helvetica Neue (Regular, Bold)
