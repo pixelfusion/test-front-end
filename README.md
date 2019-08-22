@@ -1,4 +1,3 @@
-# Fog Test
 A front-end orientated challenge designed for candidates.
 
 ### Task
@@ -10,18 +9,5 @@ Your code should be ready to handle the evolution of the layout and technical re
 The assets are provided [here](https://github.com/pixelfusion/test-front-end/tree/master/assets).
 
 ### Submission
-1. Create a **private repository** using Github, Bitbucket or Gitlab and give [developer@pixelfusion.co.nz](mailto:developer@pixelfusion.co.nz) access
+1. Create a **private repository** using Github, Bitbucket or Gitlab and share it with [developer@pixelfusion.co.nz](mailto:developer@pixelfusion.co.nz)
 2. Or alternatively you can send us a ZIP
-
-### Specifications
-- Use a mobile first approach
-- Liquid layout (Make sure the design responds between the desktop and mobile screen widths)
-- Make the title of the homepage your full name and time taken e.g *"Aron Ralston: 127hrs"*
-- Browser support: Google Chrome Latest (v76)
-- Comment your code where necessary e.g *"I am using this technique for this reason"*
-
-### Design
-- [Mobile (400px)](https://raw.githubusercontent.com/pixelfusion/test-front-end/master/design/mobile.png)
-- [Desktop (1200px)](https://raw.githubusercontent.com/pixelfusion/test-front-end/master/design/desktop.png)
-- [Assets](https://github.com/pixelfusion/test-front-end/tree/master/assets)
-- Font: Helvetica Neue (Regular, Bold)
