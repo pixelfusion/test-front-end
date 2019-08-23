@@ -6,7 +6,9 @@ You are asked to build a client-side app implementing this [design](https://gith
 ### Requirements
 * React-based single page application
 * Responsive design
+
 Your code should be ready to handle the evolution of the layout and technical requirements, e.g. brand color changes or server-side rendering.
+
 The assets are provided [here](https://github.com/pixelfusion/test-front-end/tree/master/assets).
 
 ### Submission
